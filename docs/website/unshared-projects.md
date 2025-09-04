@@ -1,5 +1,5 @@
 ---
-slug: /unshared-projects
+slug: /shared-projects
 hide_table_of_contents: true
 ---
 
